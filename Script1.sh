@@ -1,4 +1,4 @@
 echo "We are trying this practical from linux EC2"
 echo "I am from Young minds"
 echo "We are from batch-27 and learning DevOps"
-echo "This update from Branch-A"
+echo "This updates from Branch-A and Branch-B"
